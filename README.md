@@ -49,12 +49,3 @@ Lancer l'analyse :
 
 Bash
 python main.py
-💡 Ce que j'ai appris
-
-Architecture logicielle modulaire (séparation des responsabilités).
-
-Jointures SQL complexes (INNER JOIN) et agrégations (SUM, GROUP BY).
-
-Manipulation de DataFrames avec Pandas.
-
-Création de visuels impactants avec Matplotlib.
