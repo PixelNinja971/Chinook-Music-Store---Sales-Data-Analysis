@@ -1,8 +1,4 @@
 🎵 Chinook Music Store - Data Analysis Pipeline
-<<<<<<< HEAD
-
-=======
->>>>>>> 00df174515daf325723a81e0d7e2cd3a504e93ca
 
 Ce projet est une solution d'analyse de données automatisée pour le store Chinook. Il combine la puissance du SQL pour l'extraction de données complexes et la flexibilité de Python pour le traitement et la visualisation.
 
