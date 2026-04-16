@@ -39,7 +39,7 @@ Performance des employés basée sur le volume de ventes total.
 Cloner le dépôt :
 
 Bash
-git clone https://github.com/TonPseudo/Chinook-Project.git
+git clone https://github.com/PixelNinja971/Chinook-Music-Store---Sales-Data-Analysis.git
 cd "Chinook Project"
 Installer les bibliothèques nécessaires :
 
