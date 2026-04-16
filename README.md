@@ -1,5 +1,8 @@
 🎵 Chinook Music Store - Data Analysis Pipeline
+<<<<<<< HEAD
 
+=======
+>>>>>>> 00df174515daf325723a81e0d7e2cd3a504e93ca
 
 Ce projet est une solution d'analyse de données automatisée pour le store Chinook. Il combine la puissance du SQL pour l'extraction de données complexes et la flexibilité de Python pour le traitement et la visualisation.
 
@@ -40,7 +43,7 @@ Performance des employés basée sur le volume de ventes total.
 Cloner le dépôt :
 
 Bash
-git clone https://github.com/TonPseudo/Chinook-Project.git
+git clone https://github.com/PixelNinja971/Chinook-Music-Store---Sales-Data-Analysis.git
 cd "Chinook Project"
 Installer les bibliothèques nécessaires :
 
@@ -50,12 +53,3 @@ Lancer l'analyse :
 
 Bash
 python main.py
-💡 Ce que j'ai appris
-
-Architecture logicielle modulaire (séparation des responsabilités).
-
-Jointures SQL complexes (INNER JOIN) et agrégations (SUM, GROUP BY).
-
-Manipulation de DataFrames avec Pandas.
-
-Création de visuels impactants avec Matplotlib.
